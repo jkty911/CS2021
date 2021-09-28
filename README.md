@@ -4,8 +4,7 @@
     - [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) 
 - 2.計算機軟體computer software
   - [作業系統(Operating system)](https://en.wikipedia.org/wiki/Operating_system)與[系統軟體system software](https://en.wikipedia.org/wiki/System_software)
-    - windows 作業系統
-    - Linux 作業系統
+    - windows 作業系統    Linux 作業系統
     - 手機作業系統 : Android  ioS
     - [物聯網IOT(Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_things)| [Raspberry_Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) 作業系統: [Raspberry Pi OS (formerly called Raspbian)](https://www.raspberrypi.org/software/)  [Ubuntu for Raspberry Pi](https://ubuntu.com/raspberry-pi)
   - [應用軟體(Application software)](https://en.wikipedia.org/wiki/Application_software)
