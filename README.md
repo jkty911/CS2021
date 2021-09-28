@@ -1,5 +1,5 @@
 # 資訊科技概論Introduction to computer science
-
+- This course consists of several major parts as shown below:
 - 1.計算機組織computer organization
     - [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) 
     - CPU CU ALU
