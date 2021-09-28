@@ -2,12 +2,21 @@
 
 - 1.計算機組織computer organization
     - [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) 
+    - CPU CU ALU
+    - 程式語言 : 第一代 machine code(機器碼|指令|instruction) 第二代assembly組合程式  第三代high-level programming
+    - [instruction cycle |fetch–decode–execute cycle| fetch-execute cycle]
+    - CISC vs RISC
+
 - 2.計算機軟體computer software
   - [作業系統(Operating system)](https://en.wikipedia.org/wiki/Operating_system)與[系統軟體system software](https://en.wikipedia.org/wiki/System_software)
     - windows 作業系統    Linux 作業系統
     - 手機作業系統 : Android  ioS
     - [物聯網IOT(Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_things)| [Raspberry_Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) 作業系統: [Raspberry Pi OS (formerly called Raspbian)](https://www.raspberrypi.org/software/)  [Ubuntu for Raspberry Pi](https://ubuntu.com/raspberry-pi)
   - [應用軟體(Application software)](https://en.wikipedia.org/wiki/Application_software)
+    - 有許多大大小小的應用軟體
+      - [資料庫Database](https://en.wikipedia.org/wiki/Database) 
+        - SQL 資料庫: Mysql/MariaDB, Postgresql, MS SQL server, Oracle Server
+        - NOSQL 資料庫: 超多 Redis, MongoDB,.....
 
 - 3.[計算機網路computer network](https://en.wikipedia.org/wiki/Computer_network)
     - 硬體面 ==> network device 網路設備:hub | bridge switch | router(路由器) L3-switch | L4-switch | L7-switch
