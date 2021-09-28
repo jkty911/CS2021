@@ -14,8 +14,8 @@
 
 - 2.計算機軟體computer software
   - [作業系統(Operating system)](https://en.wikipedia.org/wiki/Operating_system)與[系統軟體system software](https://en.wikipedia.org/wiki/System_software)
-    - windows 作業系統    Linux 作業系統
-    - 手機作業系統 : Android  ioS
+    - windows 作業系統  |   Linux 作業系統
+    - 手機作業系統 : Android | ioS
     - [物聯網IOT(Internet of Things)](https://en.wikipedia.org/wiki/Internet_of_things)| [Raspberry_Pi](https://en.wikipedia.org/wiki/Raspberry_Pi) 作業系統: [Raspberry Pi OS (formerly called Raspbian)](https://www.raspberrypi.org/software/)  [Ubuntu for Raspberry Pi](https://ubuntu.com/raspberry-pi)
   - [應用軟體(Application software)](https://en.wikipedia.org/wiki/Application_software)
     - 有許多大大小小的應用軟體
@@ -56,7 +56,9 @@
 ### 期中平時(20%)
 - 課本習題
 - 每周繳交作業
+- 你的Github + YOUTUBE
 
 ### 期末平時(20%)
 - 課本習題
 - 每周繳交作業
+- 你的Github + YOUTUBE
