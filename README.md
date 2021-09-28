@@ -3,9 +3,12 @@
 - 1.計算機組織computer organization
     - [von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture) 
     - CPU CU ALU
-    - 程式語言 : 第一代 machine code(機器碼|指令|instruction) 第二代assembly組合程式  第三代high-level programming
+    - 程式語言 : 
+      - 第一代 machine code(機器碼|指令|instruction) 
+      - 第二代assembly組合程式  
+      - 第三代high-level programming(C/C++/C#/JAVA/......)
     - [instruction cycle |fetch–decode–execute cycle| fetch-execute cycle]
-    - CISC vs RISC
+    - [instruction set architecture (ISA)](https://en.wikipedia.org/wiki/Instruction_set_architecture) ==>  CISC vs RISC
 
 - 2.計算機軟體computer software
   - [作業系統(Operating system)](https://en.wikipedia.org/wiki/Operating_system)與[系統軟體system software](https://en.wikipedia.org/wiki/System_software)
