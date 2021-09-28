@@ -9,7 +9,7 @@
       - 第三代high-level programming(C/C++/C#/JAVA/......) ==> 工程師開發用的程式
         - 結構化程式設計 Srtuctured Programming(SP) : C
         - 物件導向程式設計(Object-oriented Programming(OOP)):c++  JAVA  C# ....... 
-    - [instruction cycle |fetch–decode–execute cycle| fetch-execute cycle]
+    - [instruction cycle |fetch–decode–execute cycle| fetch-execute cycle](https://en.wikipedia.org/wiki/Instruction_cycle)
     - [instruction set architecture (ISA)](https://en.wikipedia.org/wiki/Instruction_set_architecture) ==>  CISC vs RISC
 
 - 2.計算機軟體computer software
